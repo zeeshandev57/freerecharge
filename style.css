@@ -1,0 +1,72 @@
+body {
+				background: #212121;
+				
+}
+
+#names {
+         background: #363636;
+         width: 325px;
+         height: 45px;
+         border-style: solid;
+         border-radius: .5em;
+         border-color: #212121;
+         color: white;
+         margin: 10px;
+}
+
+#no {
+				   background: #363636;
+         width: 325px;
+         height: 45px;
+         border-style: solid;
+         border-radius: .5em;
+         border-color: #212121;
+         color: white;
+         margin: 10px;
+}
+
+#navs {
+				background: #363636;
+				font-family: sans-serif;
+				border-style: solid;
+				}
+				
+#enname {
+				color: white;
+				margin: 5px;
+				
+}				
+#enno {
+				color: white;
+				margin: 5px;
+}
+
+#com {
+				color: white;
+				}
+				
+.commes {
+				color: green;
+}
+
+#fte {
+
+      color: white;
+}
+				
+#btn {
+				color: white;
+				background: #2196F3;
+				border: solid;
+			  border-color: #2196F3;
+			  width: 100px;
+			  height: 40px;
+			  border-radius: .3em;
+			  
+			  
+}
+
+.line {
+      border: solid;
+      border-color: black;
+				}
